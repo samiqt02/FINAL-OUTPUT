@@ -1,0 +1,286 @@
+/* menu */
+body{
+    background-image: url('TRY2.jpg');
+    background-size:cover;
+    background-attachment:fixed;
+    }
+.menuh1{
+    margin-top: 0%;
+    width: 800px;
+    border-style:solid;
+    background-color: rgb(238, 142, 158);
+    border-width: 5px;
+    border-radius: 10px;
+    border-color: rgb(0, 255, 255);
+    text-align: center;
+    font-size: 50px;
+    color: yellow;
+    font-family: cursive;
+    font-weight: bold;
+    text-shadow: 5px 5px black;
+    }
+    ion-icon{
+        border-radius: 10px;
+        border-style: solid;
+        background-color: aliceblue;
+        border-color: aqua;
+        color: black;
+        height: 50px;
+        width: 50px;
+    }
+    #icon1{
+        position:absolute;
+		top:100px;
+		left:380px;
+		background-color:transparent;    
+    }
+
+    #phar1{
+        position:absolute;
+		top:100px;
+		left:475px;
+        text-align: justify;
+        background-color: aliceblue;
+        width: 500px;
+        height: 100px;
+        opacity: 80%;
+        border-style: solid;
+        border-radius: 10px;
+        border-color: aqua;
+    }
+    #icon2{
+        position:absolute;
+		top:250px;
+		left:380px;
+		background-color:transparent;    
+    }
+
+    #phar2{
+        position:absolute;
+		top:250px;
+		left:475px;
+        text-align: justify;
+        background-color: aliceblue;
+        width: 500px;
+        height: 100px;
+        opacity: 80%;
+        border-style: solid;
+        border-radius: 10px;
+        border-color: aqua;
+    }
+
+	#icon3{
+        position:absolute;
+		top:400px;
+		left:380px;
+		background-color:transparent;    
+    }
+
+    #phar3{
+        position:absolute;
+		top:400px;
+		left:475px;
+        text-align: justify;
+        background-color: aliceblue;
+        width: 500px;
+        height: 100px;
+        opacity: 80%;
+        border-style: solid;
+        border-radius: 10px;
+        border-color: aqua;
+    }
+
+
+/*favorite*/
+.favh1{
+    border-style:solid;
+    border-radius: 20px;
+    background-image: url('PIC2.jpg');
+    border-width: 5px;
+    border-color: cyan;
+    font-size: 50px;
+    font-family: cursive;
+    color: cyan;
+    font-weight: bold;
+    text-shadow: 5px 5px black;
+}
+.favp{
+    background-color: black;
+    border-radius: 10px;
+    font-size: 15px;
+    font-family:verdana;
+    color: white;
+    font-weight: bold;
+    margin-top: auto;
+    text-shadow: 2px 2px 5px black;
+    opacity: 70%;
+}
+#home {
+  border-radius:50%;
+  width:50px;
+  height:50px;
+}
+
+/* Personal Info. */
+.infoh1{
+    border-style: solid;
+    border-width: 5px;
+    border-color: cyan;
+	border-radius: 20px;
+	width: 600px;
+    font-size: 50px;
+    font-family: cursive;
+    color: cyan;
+    font-weight: bold;
+    text-shadow: 5px 5px black;
+	background-color: rgb(3, 194, 130);
+}
+#profile{
+	position: absolute;
+	top: 170px;
+	left: 800;
+}
+.pic1{
+	border-style: solid;
+	border-radius: 50%;
+	border-color: aqua;
+	width: 200px;
+	height: 200px;
+}
+#infoh2{
+	position: absolute;
+	top: 180px;
+	left: 380;
+	border-style: solid;
+	border-radius: 10px;
+	border-color: aqua;
+	font-weight: bold;
+	font-size: 40px;
+	background-color: blanchedalmond;
+}
+#infoh4{
+	position: absolute;
+	top: 245px;
+	left: 530;
+	border-style: solid;
+	border-radius: 10px;
+	border-color: aqua;
+	font-weight: bold;
+	font-size: 20px;
+	background-color: blanchedalmond;
+}
+#Age1{
+	position: absolute;
+	top: 330px;
+	left: 400;
+	border-style: solid;
+	border-radius: 10px;
+	border-color: aqua;
+	font-weight: bold;
+	font-size: 30px;
+	width: 100px;
+	background-color: blanchedalmond;
+}
+#Age2{
+	position: absolute;
+	top: 330px;
+	left: 560;
+	border-style: solid;
+	border-radius: 10px;
+	border-color: aqua;
+	font-weight: bold;
+	font-size: 30px;
+	text-align: center;
+	width: 100px;
+	background-color: blanchedalmond;
+}
+#bday1{
+	position: absolute;
+	top: 375px;
+	left: 400;
+	border-style: solid;
+	border-radius: 10px;
+	border-color: aqua;
+	font-weight: bold;
+	font-size: 30px;
+	width: 150px;
+	background-color: blanchedalmond;
+}
+#bday2{
+	position: absolute;
+	top: 375px;
+	left: 560px;
+	border-style: solid;
+	border-radius: 10px;
+	border-color: aqua;
+	font-weight: bold;
+	font-size: 30px;
+	text-align: center;
+	width: 290px;
+	background-color: blanchedalmond;
+}
+#stat1{
+	position: absolute;
+	top: 420px;
+	left: 400;
+	border-style: solid;
+	border-radius: 10px;
+	border-color: aqua;
+	font-weight: bold;
+	font-size: 30px;
+	width: 150px;
+	background-color: blanchedalmond;
+}
+#stat2{
+	position: absolute;
+	top: 420px;
+	left: 560px;
+	border-style: solid;
+	border-radius: 10px;
+	border-color: aqua;
+	font-weight: bold;
+	font-size: 30px;
+	text-align: center;
+	width: 290px;
+	background-color: blanchedalmond;
+}
+#zod1{
+	position: absolute;
+	top: 465px;
+	left: 400;
+	border-style: solid;
+	border-radius: 10px;
+	border-color: aqua;
+	font-weight: bold;
+	font-size: 30px;
+	width: 150px;
+	background-color: blanchedalmond;
+}
+#zod2{
+	position: absolute;
+	top: 465px;
+	left: 560px;
+	border-style: solid;
+	border-radius: 10px;
+	border-color: aqua;
+	font-weight: bold;
+	font-size: 30px;
+	text-align: center;
+	width: 290px;
+	background-color: blanchedalmond;
+}
+.infohome{
+	position: absolute;
+	top: 550px;
+	left: 600px;
+}
+
+
+hr{
+     color: rgb(8,10,0);
+    }
+h1:hover {background-color: rgb(255, 0, 140) ; transform: scale(1.1);}
+ion-icon:hover {transform: scale(1.1);}
+#phar1:hover, #phar2:hover, #phar3:hover {transform: scale(1.1);}
+img:hover {transform: scale(1.1);}
+.favp:hover {transform: scale(1.1);}
