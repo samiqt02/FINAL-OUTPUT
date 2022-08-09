@@ -1,6 +1,6 @@
 # FINAL-OUTPUT
 *Integrative Programming and Techniques - IT ELEC 3*
-by: 
+ 
 ## [MY ACTIVITIES](https://github.com/samiqt02/FINAL-OUTPUT/tree/main/Sammy's%20Activities)
 
 | ACTIVITY NO. | CODES | YOUTUBE LINK | TITLE |
